@@ -1,0 +1,59 @@
+header {
+    background-color: aqua;
+    height: 70px;
+}
+
+.header-bar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 500px;
+    padding-top: 10px;
+}
+.logo {
+    width: 45px;
+    height: 45px;
+}
+
+.logo-img {
+    width: 45px;
+    height: 45px;
+    display: inline-block;
+}
+
+.nav-link {
+    margin-left: 10px;
+    margin-right: 5px;
+    color: rgb(3, 10, 26);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+h2 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: inline-block;
+    padding-right: 380px;
+}
+
+main {
+    background-color: rgb(3, 10, 26);
+}
+
+
+    div.imagesInpage {
+        display: flex;
+    }
+    .image1{
+        width :250px;
+    }
+    .image2{
+        width :350px;
+    }
+    .image3{
+        width :350px;
+    }
+    .bag .pro{
+        display: flex;
+    }
